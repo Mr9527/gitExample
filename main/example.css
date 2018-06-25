@@ -10,5 +10,6 @@ td{
 }
 table{
     border-collapse: collapse;
-    background-color: white;
+    background-color: red;
+    border: 1em border-style silver
 }
